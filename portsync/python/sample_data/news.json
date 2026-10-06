@@ -1,0 +1,34 @@
+{
+  "RELIANCE": [
+    {"date": "2023-09-28", "headline": "Reliance Retail expands store network across tier 2 cities"},
+    {"date": "2023-10-01", "headline": "Jio Platforms reports increase in ARPU for Q2"}
+  ],
+  "TCS": [
+    {"date": "2023-09-25", "headline": "TCS signs multi-million dollar cloud migration contract"},
+    {"date": "2023-10-02", "headline": "TCS announces expansion of AI innovation lab"}
+  ],
+  "INFY": [
+    {"date": "2023-09-20", "headline": "Infosys collaborates with leading European bank"},
+    {"date": "2023-09-30", "headline": "Infosys digital transformation survey shows strong demand"}
+  ],
+  "HDFCBANK": [
+    {"date": "2023-09-22", "headline": "HDFC Bank posts steady deposit growth post merger"},
+    {"date": "2023-10-03", "headline": "HDFC Bank expands digital banking services"}
+  ],
+  "ITC": [
+    {"date": "2023-09-18", "headline": "ITC hotel business demerger scheme approved"},
+    {"date": "2023-10-04", "headline": "ITC FMCG business segment records strong margin expansion"}
+  ],
+  "SBIN": [
+    {"date": "2023-09-15", "headline": "SBI raises infrastructure bonds at competitive rate"},
+    {"date": "2023-10-01", "headline": "SBI asset quality remains robust across retail sectors"}
+  ],
+  "TATAMOTORS": [
+    {"date": "2023-09-27", "headline": "Tata Motors EV sales hit record high in September"},
+    {"date": "2023-10-05", "headline": "JLR reports positive cash flow and strong order book"}
+  ],
+  "WIPRO": [
+    {"date": "2023-09-21", "headline": "Wipro launches new AI-assisted engineering suite"},
+    {"date": "2023-09-29", "headline": "Wipro partners with tech giants for cloud integration"}
+  ]
+}
